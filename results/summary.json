@@ -1,0 +1,34 @@
+{
+  "listings_latest": 44058,
+  "hosts_latest": 24694,
+  "snapshots": [
+    "2025-11-27",
+    "2026-03-30",
+    "2026-06-24",
+    "2026-09-22"
+  ],
+  "hedonic_mdape_ols": 0.5482452318682243,
+  "hedonic_mdape_xgb": 0.47305777363886653,
+  "hedonic_r2_ols": 0.5421398114142326,
+  "hedonic_train": 39215,
+  "hedonic_test": 4843,
+  "hedonic_random_mdape_ols": 0.30999019479458867,
+  "hedonic_random_mdape_xgb": 0.2790763046727036,
+  "smearing": 1.2106870527690454,
+  "panel_listings": 41440,
+  "panel_rows": 110277,
+  "within_sd_log_price": 0.24662068490638694,
+  "mean_stays_90d": 2.949771937938101,
+  "reviews": 1461658,
+  "calendar_listings": 45065,
+  "calendar_median_unavailable": 0.4453345168090536,
+  "events_unavailable": {
+    "New Year's Eve": 0.667214024187285,
+    "Carnival 2027": 0.6143847775435483
+  },
+  "baseline_unavailable": {
+    "1 to 20 December 2026": 0.23218684122933542,
+    "15 February to 5 March 2027": 0.3563075557528015,
+    "June to September 2027": 0.5631088427826473
+  }
+}
